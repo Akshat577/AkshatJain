@@ -19,7 +19,7 @@
 <h3>Languages & Frameworks:</h3>
 <img src="https://skillicons.dev/icons?i=python,cpp,c,js,react,fastapi,matlab" alt="Languages" />
 
-<h3>AI/ML & Data:</h3>
+<h3>AI/ML & Database:</h3>
 <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" alt="AI/ML" />
 <img src="https://skillicons.dev/icons?i=mysql,postgresql" alt="Databases" />
 
